@@ -56,5 +56,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "publishConfig":{"registry":"http://10.23.65.110/artifactory/clarification"}
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/prachi23katiyar"
+  }
 }
